@@ -1,0 +1,14 @@
+This JavaScript challenge is a simple game called "Pop The Balloon."
+
+----The Breakdown----
+
+1. A balloon will move around the screen while the player tries to click on it as fast as possible.
+2. A variable will keep a count of how many clicks the user user had on the ballon.
+3. Code will use a picture of a ballon.
+4. A timer will move the ballon every 1000 milliseconds (1 second).
+5. If the ballon gets clicked the score will go up and the ballon will shrink down in size for a moment.
+6. The score variable will keep track of how many times the ballon gets clicked and popped.
+7. The count variable will count how many chances the player had to click the balloon. 
+8. The balloon's position will be set randomly each time it moves. 
+9. moveIt() this function will move the ballon.
+10. clickedIt() This function will run when the balloon has been clicked.
